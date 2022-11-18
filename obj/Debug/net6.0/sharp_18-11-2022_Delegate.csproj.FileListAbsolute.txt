@@ -1,0 +1,15 @@
+C:\Users\profi\Documents\Git Hub\sharp_18-11-2022_Delegate\obj\Debug\net6.0\sharp_18-11-2022_Delegate.csproj.AssemblyReference.cache
+C:\Users\profi\Documents\Git Hub\sharp_18-11-2022_Delegate\obj\Debug\net6.0\sharp_18-11-2022_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\profi\Documents\Git Hub\sharp_18-11-2022_Delegate\obj\Debug\net6.0\sharp_18-11-2022_Delegate.AssemblyInfoInputs.cache
+C:\Users\profi\Documents\Git Hub\sharp_18-11-2022_Delegate\obj\Debug\net6.0\sharp_18-11-2022_Delegate.AssemblyInfo.cs
+C:\Users\profi\Documents\Git Hub\sharp_18-11-2022_Delegate\obj\Debug\net6.0\sharp_18-11-2022_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\profi\Documents\Git Hub\sharp_18-11-2022_Delegate\bin\Debug\net6.0\sharp_18-11-2022_Delegate.exe
+C:\Users\profi\Documents\Git Hub\sharp_18-11-2022_Delegate\bin\Debug\net6.0\sharp_18-11-2022_Delegate.deps.json
+C:\Users\profi\Documents\Git Hub\sharp_18-11-2022_Delegate\bin\Debug\net6.0\sharp_18-11-2022_Delegate.runtimeconfig.json
+C:\Users\profi\Documents\Git Hub\sharp_18-11-2022_Delegate\bin\Debug\net6.0\sharp_18-11-2022_Delegate.dll
+C:\Users\profi\Documents\Git Hub\sharp_18-11-2022_Delegate\bin\Debug\net6.0\sharp_18-11-2022_Delegate.pdb
+C:\Users\profi\Documents\Git Hub\sharp_18-11-2022_Delegate\obj\Debug\net6.0\sharp_18-11-2022_Delegate.dll
+C:\Users\profi\Documents\Git Hub\sharp_18-11-2022_Delegate\obj\Debug\net6.0\refint\sharp_18-11-2022_Delegate.dll
+C:\Users\profi\Documents\Git Hub\sharp_18-11-2022_Delegate\obj\Debug\net6.0\sharp_18-11-2022_Delegate.pdb
+C:\Users\profi\Documents\Git Hub\sharp_18-11-2022_Delegate\obj\Debug\net6.0\sharp_18-11-2022_Delegate.genruntimeconfig.cache
+C:\Users\profi\Documents\Git Hub\sharp_18-11-2022_Delegate\obj\Debug\net6.0\ref\sharp_18-11-2022_Delegate.dll
